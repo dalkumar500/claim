@@ -1,0 +1,10 @@
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\obj\Debug\KomodoClaimsDepartment.csproj.AssemblyReference.cache
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\obj\Debug\KomodoClaimsDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\bin\Debug\KomodoClaimsDepartment.exe.config
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\bin\Debug\KomodoClaimsDepartment.exe
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\bin\Debug\KomodoClaimsDepartment.pdb
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\bin\Debug\Repository.dll
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\bin\Debug\Repository.pdb
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\obj\Debug\KomodoClaimsDepartment.csproj.CopyComplete
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\obj\Debug\KomodoClaimsDepartment.exe
+C:\Users\Express Pantry\source\repos\KomodoClaimsDepartment\KomodoClaimsDepartment\obj\Debug\KomodoClaimsDepartment.pdb
